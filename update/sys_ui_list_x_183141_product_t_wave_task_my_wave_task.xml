@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_183141_product_t_wave_task" version="2" view="my_wave_task">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_183141_product_t_wave_task" element="NULL" name="x_183141_product_t_wave_task" parent="NULL" relationship="NULL" sys_domain="global" view="7086a078db001300ce35d421cf961932">8496a478db001300ce35d421cf961970</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_id>0c96a478db001300ce35d421cf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_183141_product_t_wave_task" element="NULL" name="x_183141_product_t_wave_task" parent="NULL" relationship="NULL" sys_domain="global" view="7086a078db001300ce35d421cf961932">8496a478db001300ce35d421cf961970</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_id>8c96a478db001300ce35d421cf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_183141_product_t_wave_task" element="NULL" name="x_183141_product_t_wave_task" parent="NULL" relationship="NULL" sys_domain="global" view="7086a078db001300ce35d421cf961932">8496a478db001300ce35d421cf961970</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_id>0096a478db001300ce35d421cf961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_183141_product_t_wave_task" element="NULL" name="x_183141_product_t_wave_task" parent="NULL" relationship="NULL" sys_domain="global" view="7086a078db001300ce35d421cf961932">8496a478db001300ce35d421cf961970</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_id>8096a478db001300ce35d421cf961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_183141_product_t_wave_task" element="NULL" name="x_183141_product_t_wave_task" parent="NULL" relationship="NULL" sys_domain="global" view="7086a078db001300ce35d421cf961932">8496a478db001300ce35d421cf961970</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_id>0496a478db001300ce35d421cf961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_183141_product_t_wave_task" element="NULL" name="x_183141_product_t_wave_task" parent="NULL" relationship="NULL" sys_domain="global" view="7086a078db001300ce35d421cf961932">8496a478db001300ce35d421cf961970</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_id>8496a478db001300ce35d421cf961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_183141_product_t_wave_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 09:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8496a478db001300ce35d421cf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_183141_product_t_wave_task</sys_name>
+            <sys_package display_value="Product Transfer" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Transfer">8c5d685adb330300ce35d421cf9619de</sys_scope>
+            <sys_update_name>sys_ui_list_x_183141_product_t_wave_task_my_wave_task</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 09:08:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="My Wave Task" name="my_wave_task">7086a078db001300ce35d421cf961932</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

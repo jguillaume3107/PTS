@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="sourcing_assigned" label="Sourcing_Assigned" language="en" table="x_183141_product_t_child_wave">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sourcing_assigned</element>
+            <help/>
+            <hint/>
+            <label>Sourcing_Assigned</label>
+            <language>en</language>
+            <name>x_183141_product_t_child_wave</name>
+            <plural>Sourcing_Assigned</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-01 14:18:02</sys_created_on>
+            <sys_id>b1e632c9db801300ce35d421cf9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sourcing_Assigned</sys_name>
+            <sys_package display_value="Product Transfer" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Transfer">8c5d685adb330300ce35d421cf9619de</sys_scope>
+            <sys_update_name>sys_documentation_x_183141_product_t_child_wave_sourcing_assigned_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-01 14:18:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

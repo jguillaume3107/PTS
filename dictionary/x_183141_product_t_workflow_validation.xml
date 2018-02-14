@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Workflow validation" max_length="40" name="x_183141_product_t_workflow_validation" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="address" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="age" max_length="40" name="u_age" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="city" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nom" max_length="40" name="u_nom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Prenom" max_length="40" name="u_prenom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="stage" max_length="40" name="u_stage" type="string">
+            <choice>
+                <element label="un" sequence="0" value="1"/>
+                <element label="deux" sequence="1" value="2"/>
+                <element label="trois" sequence="2" value="3"/>
+                <element label="quatre" sequence="3" value="4"/>
+                <element label="cinq" sequence="4" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>

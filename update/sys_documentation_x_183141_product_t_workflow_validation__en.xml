@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Workflow validation" language="en" table="x_183141_product_t_workflow_validation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Workflow validation</label>
+            <language>en</language>
+            <name>x_183141_product_t_workflow_validation</name>
+            <plural>Workflow validations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-07 22:07:54</sys_created_on>
+            <sys_id>43fbd307db041300ce35d421cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Workflow validation</sys_name>
+            <sys_package display_value="Product Transfer" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Transfer">8c5d685adb330300ce35d421cf9619de</sys_scope>
+            <sys_update_name>sys_documentation_x_183141_product_t_workflow_validation__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-07 22:07:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

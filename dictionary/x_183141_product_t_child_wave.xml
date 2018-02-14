@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Child Wave" max_length="40" name="x_183141_product_t_child_wave" sizeclass="20" type="collection">
+        <element label="Destination" max_length="40" name="destination" type="string"/>
+        <element label="HS&amp;E info" max_length="40" name="hs_e_info" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sourcing Inventory Control" max_length="40" name="inv1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sourcing MDM info1" max_length="40" name="mdm1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sourcing MDM Task2" max_length="40" name="mdm2" type="string"/>
+        <element label="Parent Wave" max_length="32" name="parent_wave" reference="x_183141_product_t_parent_wave" type="reference"/>
+        <element label="PSRAInfo" max_length="40" name="psrainfo" type="string"/>
+        <element label="Source" max_length="40" name="source" type="string"/>
+        <element label="Sourcing_Assigned" max_length="32" name="sourcing_assigned" reference="sys_user" type="reference"/>
+        <element label="FLIN" max_length="32" name="u_flin" reference="sys_user" type="reference"/>
+        <element label="Formula Management" max_length="32" name="u_formula_mgmt" reference="sys_user" type="reference"/>
+        <element label="Kosher/Halal" max_length="32" name="u_kosher_halal" reference="sys_user" type="reference"/>
+        <element label="MDM" max_length="32" name="u_mdm" reference="sys_user" type="reference"/>
+        <element label="New Reference" max_length="32" name="u_reference_2" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element choice="3" default="0" label="Stage" max_length="40" name="u_stage" type="integer">
+            <choice>
+                <element label="Initiate" sequence="0" value="0"/>
+                <element label="Technical Validation" sequence="1" value="1"/>
+                <element label="Assigned" sequence="2" value="2"/>
+                <element label="Accepted" sequence="3" value="3"/>
+                <element label="close" sequence="4" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Sourcing Inventory Planning" max_length="240" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String (Full UTF-8)" max_length="255" name="u_string_full_utf8_5" type="string_full_utf8"/>
+    </element>
+</database>

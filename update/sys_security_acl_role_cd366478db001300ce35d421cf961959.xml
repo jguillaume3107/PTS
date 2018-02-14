@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-31 09:07:21</sys_created_on>
+        <sys_id>cd366478db001300ce35d421cf961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_183141_product_t_wave_task.x_183141_product_t.user</sys_name>
+        <sys_package display_value="Product Transfer" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Transfer">8c5d685adb330300ce35d421cf9619de</sys_scope>
+        <sys_security_acl display_value="x_183141_product_t_wave_task">85366478db001300ce35d421cf961957</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cd366478db001300ce35d421cf961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-31 09:07:21</sys_updated_on>
+        <sys_user_role display_value="x_183141_product_t.user" name="x_183141_product_t.user">005decdadb330300ce35d421cf961934</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

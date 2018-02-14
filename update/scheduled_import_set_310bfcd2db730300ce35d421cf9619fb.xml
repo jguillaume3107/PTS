@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="scheduled_import_set">
+    <scheduled_import_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <data_source display_value="chieldwave">c96234dedb330300ce35d421cf9619ef</data_source>
+        <map/>
+        <name>schedule Child Wave Import</name>
+        <order/>
+        <parent/>
+        <post_script><![CDATA[	gs.info("Scheduled ChildWave import Ends");]]></post_script>
+        <post_script_bool>true</post_script_bool>
+        <pre_script><![CDATA[	gs.info("Scheduled ChildWave import starts");]]></pre_script>
+        <pre_script_bool>true</pre_script_bool>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2018-01-23 16:13:32</run_start>
+        <run_time>1970-01-01 16:27:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>scheduled_import_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-23 16:15:14</sys_created_on>
+        <sys_id>310bfcd2db730300ce35d421cf9619fb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>schedule Child Wave Import</sys_name>
+        <sys_package display_value="Product Transfer" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Product Transfer">8c5d685adb330300ce35d421cf9619de</sys_scope>
+        <sys_update_name>scheduled_import_set_310bfcd2db730300ce35d421cf9619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-23 16:26:53</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </scheduled_import_set>
+</record_update>
