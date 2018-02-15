@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Child Wave" max_length="40" name="x_183141_product_t_child_wave" sizeclass="20" type="collection">
+    <element extends="task" label="Child Wave" max_length="40" name="x_183141_product_t_child_wave" sizeclass="5" type="collection">
         <element label="Destination" max_length="40" name="destination" type="string"/>
         <element label="HS&amp;E info" max_length="40" name="hs_e_info" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Sourcing Inventory Control" max_length="40" name="inv1" type="string"/>

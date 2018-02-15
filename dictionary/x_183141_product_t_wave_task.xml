@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Wave Task" max_length="40" name="x_183141_product_t_wave_task" sizeclass="25" type="collection">
+    <element extends="task" label="Wave Task" max_length="40" name="x_183141_product_t_wave_task" type="collection">
         <element attributes="edge_encryption_enabled=true" label="result" mandatory="true" max_length="40" name="result" type="string"/>
         <element choice="1" label="Wtype" max_length="40" name="wtype" type="string">
             <choice>

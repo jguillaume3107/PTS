@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_short_description_" label="short_description&gt;" language="en" table="x_183141_product_t_chieldwave">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_short_description_</element>
+            <help/>
+            <hint/>
+            <label>short_description&gt;</label>
+            <language>en</language>
+            <name>x_183141_product_t_chieldwave</name>
+            <plural>short_description&gt;s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-02-14 14:00:25</sys_created_on>
+            <sys_id>d28fe19ddb501300c893f11fbf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>short_description&gt;</sys_name>
+            <sys_package display_value="Product Transfer old POC JCG" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Transfer old POC JCG">8c5d685adb330300ce35d421cf9619de</sys_scope>
+            <sys_update_name>sys_documentation_x_183141_product_t_chieldwave_u_short_description__en</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-02-14 14:00:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

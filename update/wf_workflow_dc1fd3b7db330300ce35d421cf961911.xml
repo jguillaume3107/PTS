@@ -2,7 +2,7 @@
 <record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"activities":{"bb473a95db801300ce35d421cf96192a":"b3473a95db801300ce35d421cf96192a","7b47fe95db801300ce35d421cf96194d":"ff473a95db801300ce35d421cf961929","3f47fe95db801300ce35d421cf961953":"ff473a95db801300ce35d421cf961929","3b47fe95db801300ce35d421cf961954":"b3473a95db801300ce35d421cf96192a","33473a95db801300ce35d421cf96192c":"37473a95db801300ce35d421cf96192a","f7473a95db801300ce35d421cf961930":"b3473a95db801300ce35d421cf96192a","f347fe95db801300ce35d421cf961957":"ff473a95db801300ce35d421cf961929","bf47fe95db801300ce35d421cf96194e":"b3473a95db801300ce35d421cf96192a"},"ends":["b747fe95db801300ce35d421cf961956"],"subflows":[],"stages":{"b3473a95db801300ce35d421cf96192a":{"duration":"","stageId":"b3473a95db801300ce35d421cf96192a","order":100,"name":"Technical Activities","value":"2"},"ff473a95db801300ce35d421cf961929":{"duration":"","stageId":"ff473a95db801300ce35d421cf961929","order":100,"name":"Sourcing","value":"3"},"37473a95db801300ce35d421cf96192a":{"duration":"","stageId":"37473a95db801300ce35d421cf96192a","order":100,"name":"Technical Validation","value":"1"}}}</activity_stages>
+        <activity_stages>{"ends":["b747fe95db801300ce35d421cf961956"],"subflows":[],"stages":{"b3473a95db801300ce35d421cf96192a":{"stageId":"b3473a95db801300ce35d421cf96192a","duration":"","order":100,"name":"Technical Activities","value":"2"},"ff473a95db801300ce35d421cf961929":{"stageId":"ff473a95db801300ce35d421cf961929","duration":"","order":100,"name":"Sourcing","value":"3"},"37473a95db801300ce35d421cf96192a":{"stageId":"37473a95db801300ce35d421cf96192a","duration":"","order":100,"name":"Technical Validation","value":"1"}},"activities":{"bb473a95db801300ce35d421cf96192a":"b3473a95db801300ce35d421cf96192a","7b47fe95db801300ce35d421cf96194d":"ff473a95db801300ce35d421cf961929","3f47fe95db801300ce35d421cf961953":"ff473a95db801300ce35d421cf961929","3b47fe95db801300ce35d421cf961954":"b3473a95db801300ce35d421cf96192a","33473a95db801300ce35d421cf96192c":"37473a95db801300ce35d421cf96192a","f7473a95db801300ce35d421cf961930":"b3473a95db801300ce35d421cf96192a","f347fe95db801300ce35d421cf961957":"ff473a95db801300ce35d421cf961929","bf47fe95db801300ce35d421cf96194e":"b3473a95db801300ce35d421cf96192a"}}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -34,9 +34,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-02 08:58:17</sys_created_on>
         <sys_id>27473a95db801300ce35d421cf961928</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-02 09:00:08</sys_updated_on>
+        <sys_updated_on>2018-02-15 08:35:28</sys_updated_on>
         <table>x_183141_product_t_child_wave</table>
         <timezone/>
         <validated>true</validated>
@@ -56,9 +56,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>iChildWave workflow</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Product Transfer" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
+        <sys_package display_value="Product Transfer old POC JCG" source="x_183141_product_t">8c5d685adb330300ce35d421cf9619de</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Product Transfer">8c5d685adb330300ce35d421cf9619de</sys_scope>
+        <sys_scope display_value="Product Transfer old POC JCG">8c5d685adb330300ce35d421cf9619de</sys_scope>
         <sys_update_name>wf_workflow_dc1fd3b7db330300ce35d421cf961911</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-01-28 20:01:07</sys_updated_on>
